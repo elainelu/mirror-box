@@ -1,0 +1,11 @@
+body{
+    background: black;
+    padding: 0;
+    margin: 0;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 11px;
+    font-color: white;
+}
+canvas {
+    display: block;
+}
